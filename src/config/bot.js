@@ -437,7 +437,7 @@ export const botConfig = {
   features: {
     // Core systems.
     economy: true,
-    leveling: true,
+    leveling: fasle,
     moderation: true,
     logging: true,
     welcome: true,
