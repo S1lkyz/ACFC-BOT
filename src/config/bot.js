@@ -167,10 +167,10 @@ export const botConfig = {
     startingBalance: 100,
 
     // Maximum bank amount before upgrades (if upgrades are used).
-    baseBankCapacity: 100000,
+    baseBankCapacity: 10000000,
 
     // Daily reward amount.
-    dailyAmount: 1000,
+    dailyAmount: 10000,
 
     // Work command random payout range.
     workMin: 1,
