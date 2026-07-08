@@ -41,7 +41,7 @@ export const botConfig = {
     owners: process.env.OWNER_IDS?.split(",") || [],
 
     // Default wait time between command uses (in seconds).
-    defaultCooldown: 1, 
+    defaultCooldown: 3, 
 
     // If true, old commands are removed before re-registering.
     deleteCommands: false,
@@ -184,7 +184,7 @@ export const botConfig = {
     robSuccessRate: 0.4,
 
     // Jail time after failed rob (milliseconds).
-    // 180000 = 3min.
+    // 360000 = 1hour.
     robFailJailTime: 180,000 
   },
 
