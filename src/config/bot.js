@@ -184,8 +184,8 @@ export const botConfig = {
     robSuccessRate: 0.4,
 
     // Jail time after failed rob (milliseconds).
-    // 180 = 3min.
-    robFailJailTime: 180,000, 
+    // 180000 = 3min.
+    robFailJailTime: 180,000 
   },
 
   // =========================
