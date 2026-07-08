@@ -185,7 +185,7 @@ export const botConfig = {
 
     // Jail time after failed rob (milliseconds).
     // 360000 = 1hour.
-    robFailJailTime: 180,000 
+    robFailJailTime: 18000 
   },
 
   // =========================
