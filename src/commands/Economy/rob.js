@@ -6,7 +6,7 @@ import { MessageTemplates } from '../../utils/messageTemplates.js';
 import { InteractionHelper } from '../../utils/interactionHelper.js';
 
 const ROB_COOLDOWN = 4 * 60 * 60 * 1000;
-const BASE_ROB_SUCCESS_CHANCE = 0.25;
+const BASE_ROB_SUCCESS_CHANCE = 0.50;
 const ROB_PERCENTAGE = 0.15;
 const FINE_PERCENTAGE = 0.1;
 
