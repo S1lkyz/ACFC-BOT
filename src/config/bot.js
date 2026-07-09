@@ -170,7 +170,7 @@ export const botConfig = {
     baseBankCapacity: 10000000,
 
     // Daily reward amount.
-    dailyAmount: 1000,
+    dailyAmount: 1000000,
 
     // Work command random payout range.
     workMin: 1,
