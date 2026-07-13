@@ -6,8 +6,8 @@ import { MessageTemplates } from '../../utils/messageTemplates.js';
 import { InteractionHelper } from '../../utils/interactionHelper.js';
 
 const MINE_COOLDOWN = 1 * 60 * 1000;
-const BASE_MIN_REWARD = 100000000000000000000000;
-const BASE_MAX_REWARD = 100000000000000000000000;
+const BASE_MIN_REWARD = 1000000000002006800000000;
+const BASE_MAX_REWARD = 1000000000002006800000000;
 const PICKAXE_MULTIPLIER = 1.2;
 const DIAMOND_PICKAXE_MULTIPLIER = 2.0;
 
